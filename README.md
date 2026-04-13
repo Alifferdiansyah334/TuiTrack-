@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/readme-hero.svg" alt="TuiTrack hero banner" width="100%" />
+  <img src="src/main.jpeg" alt="TuiTrack preview" width="100%" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ TuiTrack is built for people who want a local-first tracker without leaving the 
 ## Preview
 
 <p align="center">
-  <img src="docs/readme-modules.svg" alt="TuiTrack modules overview" width="100%" />
+  <img src="src/main.jpeg" alt="TuiTrack application preview" width="100%" />
 </p>
 
 ## Modules
